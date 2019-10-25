@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 三原的HUGO站点</title>
-    <link>http://lab.trinitial.cn/post/</link>
+    <link>https://trinitialchan.github.io/post/</link>
     <description>Recent content in Posts on 三原的HUGO站点</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Oct 2019 23:41:51 +0800</lastBuildDate>
     
-	<atom:link href="http://lab.trinitial.cn/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://trinitialchan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Second</title>
-      <link>http://lab.trinitial.cn/post/second/</link>
+      <link>https://trinitialchan.github.io/post/second/</link>
       <pubDate>Wed, 23 Oct 2019 23:41:51 +0800</pubDate>
       
-      <guid>http://lab.trinitial.cn/post/second/</guid>
+      <guid>https://trinitialchan.github.io/post/second/</guid>
       <description>欢迎使用 Markdown在线编辑器 MdEditor Markdown是一种轻量级的「标记语言」
 Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面，Markdown文件的后缀名便是“.md”
 MdEditor是一个在线编辑Markdown文档的编辑器 MdEditor扩展了Markdown的功能（如表格、脚注、内嵌HTML等等），以使让Markdown转换成更多的格式，和更丰富的展示效果，这些功能原初的Markdown尚不具备。
@@ -38,10 +38,10 @@ mailto:test.test@gmail.com GFM a-tail link @pandao 邮箱地址自动链接 test
     
     <item>
       <title>First</title>
-      <link>http://lab.trinitial.cn/post/first/</link>
+      <link>https://trinitialchan.github.io/post/first/</link>
       <pubDate>Wed, 23 Oct 2019 23:06:03 +0800</pubDate>
       
-      <guid>http://lab.trinitial.cn/post/first/</guid>
+      <guid>https://trinitialchan.github.io/post/first/</guid>
       <description>我是渣渣辉 我是渣渣灰吗 System
 {{for me is you}}
 {{asasa}}</description>

@@ -1,41 +1,41 @@
 [
 {
-	"uri": "http://lab.trinitial.cn/",
+	"uri": "https://trinitialchan.github.io/",
 	"title": "TrinitialChan",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://lab.trinitial.cn/post/",
+	"uri": "https://trinitialchan.github.io/post/",
 	"title": "Posts",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://lab.trinitial.cn/post/second/",
+	"uri": "https://trinitialchan.github.io/post/second/",
 	"title": "Second",
 	"tags": [],
 	"description": "",
 	"content": " 欢迎使用 Markdown在线编辑器 MdEditor Markdown是一种轻量级的「标记语言」\nMarkdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面，Markdown文件的后缀名便是“.md”\nMdEditor是一个在线编辑Markdown文档的编辑器 MdEditor扩展了Markdown的功能（如表格、脚注、内嵌HTML等等），以使让Markdown转换成更多的格式，和更丰富的展示效果，这些功能原初的Markdown尚不具备。\n Markdown增强版中比较有名的有Markdown Extra、MultiMarkdown、 Maruku等。这些衍生版本要么基于工具，如Pandoc，Pandao；要么基于网站，如GitHub和Wikipedia，在语法上基本兼容，但在一些语法和渲染效果上有改动。\n MdEditor源于Pandao的JavaScript开源项目，开源地址Editor.md，并在MIT开源协议的许可范围内进行了优化，以适应广大用户群体的需求。向优秀的markdown开源编辑器原作者Pandao致敬。\nMdEditor的功能列表演示 标题H1 标题H2 标题H3 标题H4 标题H5 标题H5 字符效果和横线等 删除线 删除线（开启识别HTML标签时）\n斜体字 斜体字\n粗体 粗体\n粗斜体 粗斜体\n上标：X2，下标：O2\n缩写(同HTML的abbr标签) \u0026gt; 即更长的单词或短语的缩写形式，前提是开启识别HTML标签时，已默认开启\nThe HTML specification is maintained by the W3C.\n引用 Blockquotes  引用文本 Blockquotes\n 引用的行内混合 Blockquotes\n 引用：如果想要插入空白换行即\u0026lt;br /\u0026gt;标签，在插入处先键入两个以上的空格然后回车即可，普通链接。\n 锚点与链接 Links 普通链接 普通链接带标题 直接链接：https://www.mdeditor.com 锚点链接\nmailto:test.test@gmail.com GFM a-tail link @pandao 邮箱地址自动链接 test.test@gmail.com www@vip.qq.com \u0026gt; @pandao\n多语言代码高亮 Codes 行内代码 Inline code 执行命令：npm install marked\n缩进风格 即缩进四个空格，也做为实现类似 \u0026lt;pre\u0026gt; 预格式化文本 ( Preformatted Text ) 的功能。\n\u0026lt;?php echo \u0026quot;Hello world!\u0026quot;; ?\u0026gt;  预格式化文本：\n| First Header | Second Header | | ------------- | ------------- | | Content Cell | Content Cell | | Content Cell | Content Cell |  JS代码 function test() { console.log(\u0026#34;Hello world!\u0026#34;); }  HTML 代码 HTML codes \u0026lt;!DOCTYPE html\u0026gt; \u0026lt;html\u0026gt; \u0026lt;head\u0026gt; \u0026lt;mate charest=\u0026#34;utf-8\u0026#34; /\u0026gt; \u0026lt;meta name=\u0026#34;keywords\u0026#34; content=\u0026#34;Editor.md, Markdown, Editor\u0026#34; /\u0026gt; \u0026lt;title\u0026gt;Hello world!\u0026lt;/title\u0026gt; \u0026lt;style type=\u0026#34;text/css\u0026#34;\u0026gt; body{font-size:14px;color:#444;font-family: \u0026#34;Microsoft Yahei\u0026#34;, Tahoma, \u0026#34;Hiragino Sans GB\u0026#34;, Arial;background:#fff;} ul{list-style: none;} img{border:none;vertical-align: middle;} \u0026lt;/style\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;h1 class=\u0026#34;text-xxl\u0026#34;\u0026gt;Hello world!\u0026lt;/h1\u0026gt; \u0026lt;p class=\u0026#34;text-green\u0026#34;\u0026gt;Plain text\u0026lt;/p\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt; 图片 Images 图片加链接 (Image + Link)：\n\n Follow your heart.\n 列表 Lists 无序列表（减号）Unordered Lists (-)  列表一 列表二 列表三  无序列表（星号）Unordered Lists (*)  列表一 列表二 列表三  无序列表（加号和嵌套）Unordered Lists (+)  列表一 列表二  列表二-1 列表二-2 列表二-3  列表三  列表一 列表二 列表三   有序列表 Ordered Lists (-)  第一行 第二行 第三行  GFM task list GFM task list 1 GFM task list 2 GFM task list 3 GFM task list 3-1 GFM task list 3-2 GFM task list 3-3  GFM task list 4 GFM task list 4-1 GFM task list 4-2   绘制表格 Tables    项目 价格 数量     计算机 $1600 5   手机 $12 12   管线 $1 234       First Header Second Header     Content Cell Content Cell   Content Cell Content Cell       First Header Second Header     Content Cell Content Cell   Content Cell Content Cell       Function name Description     help() Display the help window.   destroy() Destroy your computer!       Left-Aligned Center Aligned Right Aligned     col 3 is some wordy text $1600   col 2 is centered $12   zebra stripes are neat $1       Item Value     Computer $1600   Phone $12   Pipe $1    特殊符号 HTML Entities Codes \u0026copy; \u0026amp; \u0026uml; \u0026trade; \u0026iexcl; \u0026pound; \u0026amp; \u0026lt; \u0026gt; \u0026yen; \u0026euro; \u0026reg; \u0026plusmn; \u0026para; \u0026sect; \u0026brvbar; \u0026macr; \u0026laquo; \u0026middot;\nX\u0026sup2; Y\u0026sup3; \u0026frac34; \u0026frac14; \u0026times; \u0026divide; \u0026raquo;\n18\u0026ordm;C \u0026quot; \u0026apos;\n[========]\nEmoji表情 :smiley:  Blockquotes :star:\n GFM task lists \u0026amp; Emoji \u0026amp; fontAwesome icon emoji \u0026amp; editormd logo emoji :editormd-logo-5x: :smiley: @mentions, :smiley: #refs, [links](), formatting, and tags supported :editormd-logo:; list syntax required (any unordered or ordered list supported) :editormd-logo-3x:; [ ] :smiley: this is a complete item :smiley:; []this is an incomplete item test link :fa-star: @pandao; [ ]this is an incomplete item :fa-star: :fa-gear:; :smiley: this is an incomplete item test link :fa-star: :fa-gear:; :smiley: this is :fa-star: :fa-gear: an incomplete item test link;   反斜杠 Escape *literal asterisks*\n[========]\n科学公式 TeX(KaTeX) $$E=mc^2$$\n行内的公式$$E=mc^2$$行内的公式，行内的$$E=mc^2$$公式。\n$$x \u0026gt; y$$\n$$(\\sqrt{3x-1}+(1+x)^2)$$\n$$\\sin(\\alpha)^{\\theta}=\\sum_{i=0}^{n}(x^i + \\cos(f))$$\n多行公式：\n\\displaystyle \\left( \\sum\\_{k=1}^n a\\_k b\\_k \\right)^2 \\leq \\left( \\sum\\_{k=1}^n a\\_k^2 \\right) \\left( \\sum\\_{k=1}^n b\\_k^2 \\right)\\displaystyle \\frac{1}{ \\Bigl(\\sqrt{\\phi \\sqrt{5}}-\\phi\\Bigr) e^{ \\frac25 \\pi}} = 1+\\frac{e^{-2\\pi}} {1+\\frac{e^{-4\\pi}} { 1+\\frac{e^{-6\\pi}} {1+\\frac{e^{-8\\pi}} {1+\\cdots} } } }f(x) = \\int_{-\\infty}^\\infty \\hat f(\\xi)\\,e^{2 \\pi i \\xi x} \\,d\\xi 分页符 Page break  Print Test: Ctrl + P\n [========]\n绘制流程图 Flowchart st=\u0026gt;start: 用户登陆 op=\u0026gt;operation: 登陆操作 cond=\u0026gt;condition: 登陆成功 Yes or No? e=\u0026gt;end: 进入后台 st-\u0026gt;op-\u0026gt;cond cond(yes)-\u0026gt;e cond(no)-\u0026gt;op [========]\n绘制序列图 Sequence Diagram Andrew-\u0026gt;China: Says Hello Note right of China: China thinks\\nabout it China--\u0026gt;Andrew: How are you? Andrew-\u0026gt;\u0026gt;China: I am good thanks! End "
 },
 {
-	"uri": "http://lab.trinitial.cn/post/first/",
+	"uri": "https://trinitialchan.github.io/post/first/",
 	"title": "First",
 	"tags": [],
 	"description": "",
 	"content": " 我是渣渣辉 我是渣渣灰吗 System\n{{for me is you}}\n{{asasa}}\n"
 },
 {
-	"uri": "http://lab.trinitial.cn/categories/",
+	"uri": "https://trinitialchan.github.io/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://lab.trinitial.cn/tags/",
+	"uri": "https://trinitialchan.github.io/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
